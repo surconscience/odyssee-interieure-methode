@@ -2,54 +2,42 @@
 
 ## Structure du dépôt
 
-Le projet Odyssée Intérieure utilise Git et GitHub avec une configuration spéciale permettant de suivre tous les fichiers localement tout en ne publiant qu'une partie sélectionnée sur GitHub.
+Le projet Odyssée Intérieure utilise Git et GitHub pour le contrôle de version et le partage du contenu.
 
-### Branches
+### Branche principale
 
-Le dépôt utilise deux branches principales :
+Le dépôt utilise une seule branche principale :
 
-1. **main** - Existe uniquement en local et contient l'ensemble du projet avec tous les fichiers
-2. **public** - Seule branche visible sur GitHub, contient uniquement le répertoire Public et les fichiers essentiels (README.md, LICENSE.md, .gitignore)
+**main** - Contient l'ensemble du projet avec tous les fichiers et est synchronisée avec GitHub
 
 ## Flux de travail
 
-### Travailler sur le projet complet
+### Travailler sur le projet
 
-Pour travailler sur l'ensemble du projet avec tous les fichiers :
-
-```bash
-git checkout main
-# Faire des modifications
-git add .
-git commit -m "Description des changements"
-# Pas besoin de push, la branche main n'existe que localement
-```
-
-### Mettre à jour la branche publique
-
-Après avoir fait des modifications dans le répertoire Public ou dans les fichiers essentiels que vous souhaitez publier :
+Pour travailler sur le projet et synchroniser avec GitHub :
 
 ```bash
-# Assurez-vous d'être sur main et que vos changements sont commités
+# S'assurer d'être sur la branche main
 git checkout main
-git add .
-git commit -m "Description des changements"
-# Pas de push pour main car elle n'existe qu'en local
 
-# Puis mettez à jour la branche public
-git checkout public
-git merge main
+# Faire des modifications localement
+
+# Ajouter les fichiers modifiés
+git add .
+
+# Créer un commit avec une description claire
+git commit -m "Description des changements"
+
+# Pousser les changements vers GitHub
 git push
 ```
 
-### Vérifier ce qui est publié
+### Récupérer les changements depuis GitHub
 
-Pour voir exactement ce qui est visible publiquement sur GitHub :
+Pour récupérer les changements effectués par d'autres ou depuis un autre ordinateur :
 
 ```bash
-git checkout public
-# Explorez les fichiers
-git checkout main  # Pour revenir à la version complète
+git pull
 ```
 
 ## Licence
@@ -63,18 +51,18 @@ https://github.com/surconscience/odyssee-interieure-methode
 
 ## Avantages de cette configuration
 
-1. **Séparation du contenu** : Vous pouvez continuer à travailler sur tous vos fichiers localement dans la branche "main"
-2. **Publication sélective** : Seul le contenu du répertoire "Public" est visible dans la branche "public" sur GitHub
-3. **Flexibilité** : Vous pouvez facilement basculer entre les deux branches selon vos besoins
-4. **Sécurité** : Les fichiers de travail et notes personnelles restent privés
+1. **Simplicité** : Une seule branche à gérer, flux de travail Git standard
+2. **Transparence** : Tout le contenu est visible et accessible sur GitHub
+3. **Collaboration** : Facilite la contribution d'autres personnes au projet
+4. **Intégration** : S'intègre parfaitement avec d'autres outils et services
 
 ## Conseils pour Obsidian
 
 Cette configuration est particulièrement adaptée à Obsidian, car elle vous permet de :
-- Garder vos notes personnelles et votre travail en cours dans la branche main
-- Publier uniquement les notes finalisées dans le répertoire Public
 - Utiliser Git pour suivre les modifications de toutes vos notes
-- Avoir une sauvegarde complète de votre vault Obsidian
+- Avoir une sauvegarde complète de votre vault Obsidian sur GitHub
+- Partager facilement votre travail avec d'autres
+- Intégrer votre contenu avec d'autres outils comme Jekyll
 
 ## Configuration initiale (pour référence)
 
@@ -82,8 +70,6 @@ Si vous devez recréer cette configuration sur un autre projet :
 
 1. Initialiser un dépôt Git : `git init`
 2. Créer la branche main localement : `git add .`, `git commit -m "Initial commit"`
-3. Créer la branche public : `git checkout -b public`
-4. Supprimer les fichiers non publics : `git rm -r [fichiers/dossiers à ne pas publier]`
-5. Commit et push de la branche public : `git commit -m "Configuration branche public"`, `git push -u origin public`
-6. Définir la branche public comme branche par défaut sur GitHub
-7. Si nécessaire, supprimer la branche main de GitHub (mais pas localement) : `git push origin --delete main`
+3. Créer un dépôt sur GitHub avec le même nom
+4. Connecter le dépôt local au dépôt distant : `git remote add origin https://github.com/username/repository.git`
+5. Pousser le contenu vers GitHub : `git push -u origin main`
