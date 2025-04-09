@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Surconscience"
+---
+
 Cette notion est tirée de l'oeuvre de Paul Diel, une source d'inspiration majeure pour toute notre démarche.
 
 Selon Diel, donner un sens à sa vie est le projet le plus sensé qui soit (_PM_, p. 31). L’esprit surconscient est celui qui est conscient non seulement de lui-même et de ses aspirations, mais aussi de la vie, de son sens, et des moyens de réaliser ce sens.

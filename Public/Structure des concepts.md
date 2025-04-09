@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Structure des concepts"
+---
+
 L'organisation du projet repose sur plusieurs éléments interconnectés qui forment un réseau dynamique de réflexion et d'évolution.
 ### 1. **Les constats**
 Les constats sont des observations, des principes ou des idées-clés qui constituent des nœuds et des étapes sur les chemins de réflexion. Ils sont interconnectés pour permettre l’émergence de nouvelles compréhensions.

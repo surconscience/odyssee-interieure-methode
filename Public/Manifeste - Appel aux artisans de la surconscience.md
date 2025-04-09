@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Manifeste - Appel aux artisans de la surconscience"
+---
+
 **À tous les chercheurs de lumière!**  
 
 Modestes voyageurs de la pensée qui arpentez les sentiers numériques, vos pas vous ont conduits jusqu'ici. Nous espérons que vous pourrez découvrir dans ces contenus des éléments utiles à de nouvelles prises de conscience. 

@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Odyssée intérieure"
+---
+
 Le projet **Odyssée intérieure** vise à créer un compagnon pour le développement personnel et spirituel. Il ne s'agit ni d'un livre, ni d'un blog, ni d'une formation en ligne, mais d'un support pour le cheminement personnel à travers des constats interconnectés. Chaque constat est un nœud dans un réseau de réflexions, permettant de suivre différents chemins d'évolution.
 
 L'objectif est d'offrir une structure qui favorise les prises de conscience progressives, appelées **seuils**. Une fois un seuil franchi, l'explication complète devient superflue : on peut alors avancer en s'appuyant sur ce nouveau point d'ancrage.
