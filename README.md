@@ -1,23 +1,16 @@
 # Odyssée Intérieure
 
 ## Présentation
-L'Odyssée Intérieure est une méthode originale de représentation et de partage des connaissances visant à renforcer la surconscience. Elle propose un langage propre, fondé sur des constats interconnectés, des seuils de prise de conscience, et des chemins de pensée non linéaires.
-
+L'Odyssée Intérieure est une méthode originale de représentation et de partage des connaissances visant à relier entre eux des constats et permettre de passer des seuils de prise de conscience en empruntant des chemins de pensée non linéaires. Cette méthode est utilisée pour organiser le contenu du site https://www.surconscience.net mais pourrait être appliquée à de nombreux autres domaines.
 ## Structure du projet
 - **Constats** : Réflexions interconnectées formant la base de la méthode
-- **Seuils** : Points de prise de conscience transformatifs
-- **Chemins** : Parcours non linéaires à travers les constats et seuils
+- **Seuils** : Points de prise de conscience transformatif
+- **Chemins** : Parcours à travers des constats et seuils
 
-## Objectif
-Initialement conçue comme un projet personnel de structuration de pensée, l'Odyssée Intérieure s'est transformée en une méthode transmissible. Il ne s'agit plus de *réaliser* un projet, mais de *tenir* une méthode réutilisable, extensible et partageable.
-
-## Utilisation
-La première étape de diffusion consiste à publier une version initiale de la méthode, accompagnée de chemins concrets illustratifs qui rendent la méthode immédiatement compréhensible et applicable.
+## Etat d'avancement
+Nous publions une version initiale de la méthode qui doit encore faire l'objet de nombreux développements tant méthodologiques que techniques.
 
 ---
-
-*"Explorer sans but final"*
-
 ## Licence
 
 Ce projet est sous licence [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).

@@ -1,6 +1,6 @@
 # Licence Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-Ce projet "Odyssée Intérieure" est mis à disposition selon les termes de la licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).
+Ce projet "Odyssée intérieure - méthode" est mis à disposition selon les termes de la licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).
 
 ## Vous êtes autorisé à :
 

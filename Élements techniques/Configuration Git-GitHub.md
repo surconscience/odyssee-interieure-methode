@@ -8,8 +8,8 @@ Le projet Odyssée Intérieure utilise Git et GitHub avec une configuration spé
 
 Le dépôt utilise deux branches principales :
 
-1. **main** - Contient l'ensemble du projet avec tous les fichiers
-2. **public** - Contient uniquement le répertoire Public et les fichiers essentiels (README.md, LICENSE.md, .gitignore)
+1. **main** - Existe uniquement en local et contient l'ensemble du projet avec tous les fichiers
+2. **public** - Seule branche visible sur GitHub, contient uniquement le répertoire Public et les fichiers essentiels (README.md, LICENSE.md, .gitignore)
 
 ## Flux de travail
 
@@ -22,7 +22,7 @@ git checkout main
 # Faire des modifications
 git add .
 git commit -m "Description des changements"
-git push
+# Pas besoin de push, la branche main n'existe que localement
 ```
 
 ### Mettre à jour la branche publique
@@ -34,7 +34,7 @@ Après avoir fait des modifications dans le répertoire Public ou dans les fichi
 git checkout main
 git add .
 git commit -m "Description des changements"
-git push
+# Pas de push pour main car elle n'existe qu'en local
 
 # Puis mettez à jour la branche public
 git checkout public
@@ -81,7 +81,9 @@ Cette configuration est particulièrement adaptée à Obsidian, car elle vous pe
 Si vous devez recréer cette configuration sur un autre projet :
 
 1. Initialiser un dépôt Git : `git init`
-2. Créer et pousser la branche main : `git add .`, `git commit -m "Initial commit"`, `git push -u origin main`
+2. Créer la branche main localement : `git add .`, `git commit -m "Initial commit"`
 3. Créer la branche public : `git checkout -b public`
 4. Supprimer les fichiers non publics : `git rm -r [fichiers/dossiers à ne pas publier]`
-5. Commit et push : `git commit -m "Configuration branche public"`, `git push -u origin public`
+5. Commit et push de la branche public : `git commit -m "Configuration branche public"`, `git push -u origin public`
+6. Définir la branche public comme branche par défaut sur GitHub
+7. Si nécessaire, supprimer la branche main de GitHub (mais pas localement) : `git push origin --delete main`

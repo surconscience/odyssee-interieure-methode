@@ -4,7 +4,7 @@ L'objectif est d'offrir une structure qui favorise les prises de conscience prog
 
 Pour structurer ces apprentissages, des **fils rouges** servent de lignes directrices, similaires à des lignes de métro ou de bus. Ils orientent les directions de recherche et montrent des passerelles permettant de passer d'une ligne à l'autre, facilitant ainsi une progression fluide et cohérente à travers le réseau de pensée.
 
-Ces différents fils rouges ont pour objectif ultime de contribuer à l'émergence d'un nouvel état de conscience que nous appelons la **[[surconscience]]** qui pourrait contribuer à résoudre les problèmes auxquels est actuellement confronté l'humanité ou tout simplement de permettre à chacun de trouver un peu plus de bonheur dans sa vie. 
+Ces différents fils rouges ont pour objectif ultime de contribuer à l'émergence d'un nouvel état de conscience que nous appelons la **[[Surconscience]]** qui pourrait contribuer à résoudre les problèmes auxquels est actuellement confronté l'humanité ou tout simplement de permettre à chacun de trouver un peu plus de bonheur dans sa vie. 
 
 Dans tous les cas, la finalité des apprentissages n'est pas uniquement intellectuelle mais d'atteindre une mise en pratique dans la vie quotidienne.
 
