@@ -1,0 +1,18 @@
+# Fichiers et dossiers spécifiques à Obsidian
+.obsidian/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.swp
+
+# Fichiers de sauvegarde
+*.bak
+*~
+
+# Fichiers personnels qui ne devraient pas être partagés
+*.private.md
