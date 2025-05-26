@@ -1,5 +1,3 @@
-# Jekyll
-
 ## Description
 Jekyll est un générateur de sites statiques écrit en Ruby, particulièrement adapté pour les blogs et la documentation. Il est nativement supporté par GitHub Pages.
 

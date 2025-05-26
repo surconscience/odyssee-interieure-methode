@@ -1,8 +1,8 @@
-# Intégration Obsidian-Jekyll pour Odyssée Intérieure
+# Intégration Obsidian-Jekyll pour Odyssée intérieure
 
 ## Vue d'ensemble
 
-Ce document explique comment le projet Odyssée Intérieure intègre Obsidian (pour la prise de notes et la création de contenu) avec Jekyll (pour la publication web) via Git.
+Ce document explique comment le projet Odyssée intérieure intègre Obsidian (pour la prise de notes et la création de contenu) avec Jekyll (pour la publication web) via Git.
 
 ## Architecture globale
 

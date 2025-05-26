@@ -1,8 +1,6 @@
-# Configuration Git-GitHub pour Odyssée Intérieure
-
 ## Structure du dépôt
 
-Le projet Odyssée Intérieure utilise Git et GitHub pour le contrôle de version et le partage du contenu.
+Le projet Odyssée intérieure utilise Git et GitHub pour le contrôle de version et le partage du contenu.
 
 ### Branche principale
 

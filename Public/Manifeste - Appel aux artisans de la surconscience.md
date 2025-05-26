@@ -1,13 +1,17 @@
 ---
-layout: page
+layout: single
 title: "Manifeste - Appel aux artisans de la surconscience"
+permalink: /manifeste-appel-aux-artisans-de-la-surconscience/
+description: "Appel à tous les chercheurs de lumière pour contribuer à l’évolution de la conscience par la méthode de l’Odyssée intérieure."
+toc: true
+toc_sticky: true
+classes: wide
 ---
-
 **À tous les chercheurs de lumière!**  
 
 Modestes voyageurs de la pensée qui arpentez les sentiers numériques, vos pas vous ont conduits jusqu'ici. Nous espérons que vous pourrez découvrir dans ces contenus des éléments utiles à de nouvelles prises de conscience. 
 
-Nous souhaitons contribuer à l'émergence de la **[[Surconscience|surconscience]]** en utilisant la méthode de l'**[[Odyssée intérieure|odyssée intérieure]]**. Ce qui nous distingue de nombreux livres ou sites existants, c'est justement cette méthode collaborative qui s'adapte au chemin de chacun. 
+Nous souhaitons contribuer à l'émergence de la **[surconscience](/surconscience/)** en utilisant la méthode de l'**[odyssée intérieure](/odyssee-interieure/)**. Ce qui nous distingue de nombreux livres ou sites existants, c'est justement cette méthode collaborative qui s'adapte au chemin de chacun. 
 
 Si vous pensez pouvoir y contribuer, alors faites-vous connaître. Quelle que soit votre perspective — historique, philosophique, spirituelle, physique, médicale, psychologique, personnelle — votre contribution pourrait bénéficier à une autre personne. Les chemins pour l'évolution de la conscience sont multiples. Chaque apprentissage peut être partagé et trouver une oreille pour l'accueillir. Nous vous demandons toutefois de bien prendre connaissance de la méthode avant de vous lancer.
 

@@ -1,7 +1,7 @@
-# Odyssée Intérieure
+# Odyssée intérieure
 
 ## Présentation
-L'Odyssée Intérieure est une méthode originale de représentation et de partage des connaissances visant à relier entre eux des constats et permettre de passer des seuils de prise de conscience en empruntant des chemins de pensée non linéaires. Cette méthode est utilisée pour organiser le contenu du site https://www.surconscience.net mais pourrait être appliquée à de nombreux autres domaines.
+L'Odyssée intérieure est une méthode originale de représentation et de partage des connaissances visant à relier entre eux des constats et permettre de passer des seuils de prise de conscience en empruntant des chemins de pensée non linéaires. Cette méthode est utilisée pour organiser le contenu du site https://www.surconscience.net mais pourrait être appliquée à de nombreux autres domaines.
 ## Structure du projet
 - **Constats** : Réflexions interconnectées formant la base de la méthode
 - **Seuils** : Points de prise de conscience transformatif

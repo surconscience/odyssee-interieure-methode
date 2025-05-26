@@ -1,4 +1,4 @@
-Cette note décrit la **vision technique** d’ensemble pour publier l’Odyssée Intérieure (méthode et contenu) à partir de fichiers Obsidian vers la plateforme en ligne **surconscience.net**. 
+Cette note décrit la **vision technique** d'ensemble pour publier l'Odyssée intérieure (méthode et contenu) à partir de fichiers Obsidian vers la plateforme en ligne **surconscience.net**. 
 
 L’architecture se veut **évolutive** pour s’adapter aux futurs développements du projet.
 
