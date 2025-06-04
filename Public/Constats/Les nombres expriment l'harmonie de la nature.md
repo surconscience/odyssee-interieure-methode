@@ -2,13 +2,10 @@
 layout: single
 title: Les nombres expriment l'harmonie de la nature
 description: 
-permalink: /nombres/les-nombres-expriment-l-harmonie-de-la-nature/
+permalink: /constats/les-nombres-expriment-l-harmonie-de-la-nature/
 toc: false
 toc_sticky: false
 type: constat
-date: 2025-05-26
-tags:
-  - nombres
 ---
 
 Constat : Il y a un ordre, une harmonie dans l'univers

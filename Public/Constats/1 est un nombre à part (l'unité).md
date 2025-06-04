@@ -2,13 +2,10 @@
 layout: single
 title: 1 est un nombre à part (l'unité)
 description: 
-permalink: /nombres/1-est-un-nombre-a-part-l-unite/
+permalink: /constats/1-est-un-nombre-a-part-l-unite/
 toc: false
 toc_sticky: false
 type: constat
-date: 2025-05-26
-tags:
-  - nombres
 ---
 
 L'unité est l'essence. On ne peut donner le nom d'être qu'à ce qui est un. Tout être n'est autre chose que le rapport d'une forme et d'une matière (substance). Il en est l'unité.
