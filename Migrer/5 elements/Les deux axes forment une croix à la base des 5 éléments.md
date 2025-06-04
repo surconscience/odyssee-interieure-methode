@@ -1,4 +1,12 @@
 ---
+layout: single
+title: Les deux axes forment une croix à la base des 5 éléments
+description: 
+permalink: /constats/les-deux-axes-forment-une-croix-a-la-base-des-5-elements/
+toc: false
+toc_sticky: false
+type: constat
+date: 2025-05-26
 tags:
   - 5éléments
 ---

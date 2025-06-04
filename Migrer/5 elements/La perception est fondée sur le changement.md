@@ -1,4 +1,12 @@
 ---
+layout: single
+title: La perception est fondée sur le changement
+description: 
+permalink: /constats/la-perception-est-fondee-sur-le-changement/
+toc: false
+toc_sticky: false
+type: constat
+date: 2025-05-26
 tags:
   - 5éléments
   - entrée

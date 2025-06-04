@@ -1,5 +1,15 @@
 ---
-tags: 
+layout: single
+title: La dualité est une manifestation apparente d'une unité sous-jancente
+description: 
+permalink: /constats/la-dualite-est-une-manifestation-apparente-d-une-unite-sous-jancente/
+toc: false
+toc_sticky: false
+type: constat
+date: 2025-05-26
+tags:
+  - 5éléments
+  - nombres
 Chemins:
   - 5éléments
   - nombres

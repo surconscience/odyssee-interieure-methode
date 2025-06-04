@@ -1,4 +1,12 @@
 ---
+layout: single
+title: L'axe énergétique (chaud - froid) constitue la principale dualité
+description: 
+permalink: /constats/l-axe-energetique-chaud-froid-constitue-la-principale-dualite/
+toc: false
+toc_sticky: false
+type: constat
+date: 2025-05-26
 tags:
   - 5éléments
 Chemins:

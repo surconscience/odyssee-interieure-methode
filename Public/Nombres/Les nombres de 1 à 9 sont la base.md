@@ -1,1 +1,0 @@
-Tous les autres nombres en découlent.
