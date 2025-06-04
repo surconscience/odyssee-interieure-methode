@@ -16,6 +16,8 @@ Les fichiers de Constats, situés dans le répertoire `Public/Constats/` au sein
   - `type: constat` (essentiel pour identifier ce contenu comme un constat, notamment pour les requêtes Dataview)
   - `chemin_associe: "Nom du Chemin"` (Optionnel. Indique le [[Chemins|Chemin]] principal auquel ce constat est associé. Peut être une chaîne de caractères pour un seul chemin, ou une liste YAML pour plusieurs.)
   - `fil_rouge_associe: "Nom du Fil Rouge"` (Optionnel. Indique le [[Fils rouges|Fil rouge]] principal auquel ce constat est associé. Peut être une chaîne de caractères pour un seul fil rouge, ou une liste YAML pour plusieurs.)
+  - `type_constat: "valeur"` (Optionnel. Spécifie le rôle particulier du constat. Valeurs possibles: `porte_entree`, `porte_sortie`. Laissez vide ou omettez pour un constat standard.)
+  - `sequence: nombre` (Optionnel. Un nombre entier pour définir l'ordre d'affichage des constats au sein d'un chemin. Les constats sont triés par ordre croissant de ce numéro. Il est recommandé d'utiliser des pas de 10 pour faciliter les insertions futures, ex: 10, 20, 30.)
 - Contenu principal en Markdown, qui développe le constat.
 
 ## Liste des Constats

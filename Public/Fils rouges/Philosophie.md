@@ -7,10 +7,11 @@ toc: false
 toc_sticky: false
 type: fil_rouge
 ---
-## Description générale
+Les grecs ont inventé le mot *philosophia*, qui veut dire `« amour de la sagesse »`. Pourtant, à l'école, nous avons appris « des philosophes » plutôt que « la philosophie » et souvent à travers des constructions assez abstraites.
 
-Ce fil rouge explore les contributions de la philosophie à la méthode de l'Odyssée intérieure. La philosophie, en tant que recherche de la sagesse et questionnement sur l'être, la connaissance et l'existence, offre des perspectives essentielles pour approfondir notre compréhension de nous-mêmes et du monde.
+Comment retrouver et mettre en pratique concrètement cet amour de la sagesse ? 
 
+[[Philosophie école de sagesse|PASSEZ LE PORTAIL !]]
 ## Chemins associés
 
 {% assign chemins_lies = site.pages | where: "type", "chemin" | where: "fil_rouge", page.title %}
