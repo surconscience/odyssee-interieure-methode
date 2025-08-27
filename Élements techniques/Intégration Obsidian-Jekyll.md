@@ -19,7 +19,7 @@ Pour éviter la duplication de contenu entre Obsidian et Jekyll, nous utilisons 
 ### Structure des répertoires
 
 ```
-/home/oliver/Nextcloud/Oliver/01_philosophie_spiritualité/Odyssée intérieure_méthode/
+/home/oliver/Nextcloud/Oliver/01_philosophie_spiritualité/Odyssée intérieure/
 ├── Public/                  # Répertoire contenant les notes à publier
 │   ├── Manifeste.md
 │   ├── Odyssée intérieure.md

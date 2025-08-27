@@ -1,11 +1,13 @@
 ---
-layout: single
+layout: constat
 title: 1 est un nombre à part (l'unité)
-description: 
+description: L'Un comme principe fondamental et générateur de tous les nombres
 permalink: /constats/1-est-un-nombre-a-part-l-unite/
 toc: false
 toc_sticky: false
 type: constat
+chemin_associe: La porte des nombres
+sequence: 60
 ---
 
 L'unité est l'essence. On ne peut donner le nom d'être qu'à ce qui est un. Tout être n'est autre chose que le rapport d'une forme et d'une matière (substance). Il en est l'unité.

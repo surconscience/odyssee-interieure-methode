@@ -1,15 +1,15 @@
 ---
 layout: single
-title: Intérêts et limites de la philosophie
-permalink: /chemins/interets-limites-philosophie/
-description: Exploration de la valeur et des bornes de la démarche philosophique dans le cadre de l'Odyssée intérieure.
+title: La porte des nombres
+permalink: /chemins/porte-des-nombres/
+description: Pourquoi l'étude des nombres est-elle si importante?
 toc: false
 toc_sticky: false
 classes: wide
 type: chemin
-fil_rouge: Philosophie
+fil_rouge: Nombres
 ---
-Pourquoi s'intéresser à la philosophie? Quels sont les points d'attention principaux pour une approche surconsciente de la philosophie ? 
+Comment entrer dans l'étude de nombres ? Des premiers constats permettent d'initier le chemin.
 ## Constats associés
 ```dataviewjs
 // Récupérer les constats associés

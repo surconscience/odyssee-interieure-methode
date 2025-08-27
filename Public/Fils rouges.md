@@ -9,7 +9,7 @@ classes: wide
 ---
 Les fils rouges sont des chemins qui structurent le réseau de l'odyssée intérieure et constituent l'architecture des voies de développement personnel proposées. 
 
-Ils fonctionnent comme des lignes de métro. Alors que certains chemins peuvent être vus comme de simples rues ou sentiers, d'autres comme des lignes de bus déjà plus importantes, les fils rouges constituent les plus grandes artères.
+Ils fonctionnent à l'image d'un réseau de transport en commun. Alors que certains chemins peuvent être vus comme de simples rues ou sentiers, d'autres comme des lignes de bus déjà plus importantes, les fils rouges constituent les grands axes structurants qui fonctionnent comme des lignes de métro.
 
 Les fils rouges ne sont pas des parcours linéaires qu'il faut suivre en entier. N'hésitez donc pas à naviguer entre eux selon vos besoins et intuitions du moment.
 ## Liste des fils rouges

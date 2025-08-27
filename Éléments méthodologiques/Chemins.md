@@ -1,6 +1,6 @@
 ## Mécanisme des Chemins
 
-Les Chemins sont des explorations plus spécifiques. Ils sont connectés entre eux ainsi qu'à un ou plusieurs [[Fils rouges|fils rouges]].
+Les Chemins sont des explorations plus spécifiques. Ils sont connectés entre eux ainsi qu'à un ou plusieurs [[Éléments méthodologiques/Fils rouges|fils rouges]].
 ## Structure technique
 
 Les fichiers de Chemins, situés dans le répertoire `Public/Chemins/` au sein de votre vault Obsidian, sont structurés comme suit :
@@ -13,7 +13,7 @@ Les fichiers de Chemins, situés dans le répertoire `Public/Chemins/` au sein d
   - `toc_sticky: false` (si `toc: true`, mettre également à `true` pour que la table des matières reste visible en haut lors du défilement. Par défaut à `false`.)
   - `classes: wide` (optionnel, peut être utilisé pour des mises en page spécifiques du thème Minimal Mistakes, comme `wide`)
   - `type: chemin` (essentiel pour identifier ce contenu comme un chemin, notamment pour les requêtes Dataview)
-  - `fil_rouge: "Nom du Fil Rouge"` (indique le [[Fils rouges|Fil rouge]] principal auquel ce chemin est associé. Ce champ peut contenir le nom d'un seul fil rouge ou une liste de noms si le chemin est pertinent pour plusieurs fils.)
+  - `fil_rouge: "Nom du Fil Rouge"` (indique le [[Éléments méthodologiques/Fils rouges|Fil rouge]] principal auquel ce chemin est associé. Ce champ peut contenir le nom d'un seul fil rouge ou une liste de noms si le chemin est pertinent pour plusieurs fils.)
 - Contenu principal en Markdown, qui commence typiquement par une section `## Description générale`, suivie d'autres sections pertinentes au chemin.
 
 ## Liste des Chemins

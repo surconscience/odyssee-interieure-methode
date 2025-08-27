@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: constat
 title: La perception est fondée sur le changement
 description: 
 permalink: /constats/la-perception-est-fondee-sur-le-changement/

@@ -17,6 +17,6 @@ Certains constats mènent à des seuils de prise de conscience, des moments où 
 ### 4. **Les portes**
 Les portes d'entrée marquent les points d'accès aux chemins, elles définissent un questionnement ou une prise de conscience qui constitue le déclencheur initial d'un parcours de réflexion. Les seuils contiennent souvent des portes d'entrée vers d'autres chemins.
 
-Les portes de sortie sont les points où le chemin proposé par Odyssée intérieure s'arrête, soit pour en conclure l'exploration, soit pour passer le relai à d'autres ressources soit pour une mise en pratique ou une exploration personnelle.
+Les portes de sortie sont les points où le chemin proposé par Odyssée intérieure s'arrête, soit pour en conclure l'exploration, soit pour passer le relais à d'autres ressources soit pour une mise en pratique ou une exploration personnelle.
 ### 5. **Les fils rouges**
-Les [[Fils rouges|fils rouges]] sont des chemins qui structurent le réseau et constituent l'architecture des trajectoires proposées. Ils fonctionnent comme des lignes de métro. Certains chemins peuvent être vus comme de simples rues ou sentiers, d'autres comme des lignes de bus déjà plus importantes et les fils rouges constituent les plus grandes artères.
+Les [[Public/Fils rouges|fils rouges]] sont des chemins qui structurent le réseau et constituent l'architecture des trajectoires proposées. Ils fonctionnent comme des lignes de métro. Certains chemins peuvent être vus comme de simples rues ou sentiers, d'autres comme des lignes de bus déjà plus importantes et les fils rouges constituent les plus grandes artères.

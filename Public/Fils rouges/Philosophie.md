@@ -7,11 +7,9 @@ toc: false
 toc_sticky: false
 type: fil_rouge
 ---
-Les grecs ont inventé le mot *philosophia*, qui veut dire `« amour de la sagesse »`. Pourtant, à l'école, nous avons appris « des philosophes » plutôt que « la philosophie » et souvent à travers des constructions assez abstraites.
+Les grecs ont inventé le mot *philosophia* qui veut dire `« amour de la sagesse »`. Pourtant, à l'école, nous avons appris la philosophie à travers des constructions assez abstraites et complexes.
 
-Comment retrouver et mettre en pratique concrètement cet amour de la sagesse ? 
-
-[[Philosophie école de sagesse|PASSEZ LE PORTAIL !]]
+Comment dépasser cela et retrouver une approche pratique et abordable de la philosophie ?
 ## Chemins associés
 
 {% assign chemins_lies = site.pages | where: "type", "chemin" | where: "fil_rouge", page.title %}

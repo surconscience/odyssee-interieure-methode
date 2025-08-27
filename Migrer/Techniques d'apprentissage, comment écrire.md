@@ -1,0 +1,4 @@
+- L'atlas mental. Second cerveau Florian Roquette. 
+- Encheiridion. Les règles essentielles. Carnet 2, 21
+- Hypomnémata. Carnet 2, 20 21. Sans ordre, besoin de se reparler à soi. 
+- Carnet d'émotions, rêves... 
