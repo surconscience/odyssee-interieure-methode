@@ -1,14 +1,14 @@
 ---
-layout: constat
 title: Pour une philosophie et une démarche scientifique consciente de ses propres limites
 description: Constat sur le risque d'une philosophie qui n'a pas conscience de ses propres limitations.
 permalink: /constats/philosophie-risque-inconscience-limites/
+chemin_associe: Intérêts et limites de la philosophie
+sequence: 30
 toc: false
 toc_sticky: false
 type: constat
-chemin_associe: Intérêts et limites de la philosophie
+layout: constat
 fil_rouge_associe: Philosophie
-sequence: 30
 ---
 La philosophie ou la science n'ont parfois pas conscience de leurs limites. Certains philosophes ou scientifiques matérialistes croient que tout pourra être expliqué un jour par la raison et une argumentation rigoureuse.
 

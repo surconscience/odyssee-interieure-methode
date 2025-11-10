@@ -1,15 +1,14 @@
 ---
-layout: constat
 title: 1 est un nombre à part (l'unité)
 description: L'Un comme principe fondamental et générateur de tous les nombres
 permalink: /constats/1-est-un-nombre-a-part-l-unite/
+chemin_associe: La porte des nombres
+sequence: 60
 toc: false
 toc_sticky: false
 type: constat
-chemin_associe: La porte des nombres
-sequence: 60
+layout: constat
 ---
-
 L'unité est l'essence. On ne peut donner le nom d'être qu'à ce qui est un. Tout être n'est autre chose que le rapport d'une forme et d'une matière (substance). Il en est l'unité.
 
 Constat : Il y a deux concepts : l'Un et la monade. L'Un et la monade ont une affinité de nature mais diffèrent entre elles. "De quelle unité veux-tu parler? De l'Unité suprême (le Tout) ou de l'entité infiniment petite qui se produit par division des parties (l'atome)?"

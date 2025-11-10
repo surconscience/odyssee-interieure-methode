@@ -1,13 +1,13 @@
 ---
-layout: constat
 title: Les nombres expriment l'harmonie de la nature
 description: Le nombre comme expression de l'ordre et de l'harmonie universelle
 permalink: /constats/les-nombres-expriment-l-harmonie-de-la-nature/
+chemin_associe: La porte des nombres
+sequence: 90
 toc: false
 toc_sticky: false
 type: constat
-chemin_associe: La porte des nombres
-sequence: 90
+layout: constat
 ---
 
 Prerequis : [[Il y a un ordre, une harmonie dans l'univers]]

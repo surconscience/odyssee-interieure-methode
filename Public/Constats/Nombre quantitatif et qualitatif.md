@@ -1,13 +1,13 @@
 ---
-layout: constat
 title: Nombre quantitatif et qualitatif
 description:
 permalink: /constats/nombre-quantitatif/
+chemin_associe: La porte des nombres
+sequence: 10
 toc: false
 toc_sticky: false
 type: constat
-chemin_associe: La porte des nombres
-sequence: 10
+layout: constat
 ---
 Un nombre tel qu'on l'apprend dès l'enfance est lié au calcul et décrit une quantité. On effectue par exemple des opérations sur les nombres (addition, soustraction...). Tous ces apprentissages sont liés au domaine des mathématiques et leur utilité pratique n'est pas à démontrer.
 

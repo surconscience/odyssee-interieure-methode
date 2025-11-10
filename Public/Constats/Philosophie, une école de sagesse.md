@@ -1,15 +1,15 @@
 ---
-layout: constat
 title: Philosophie, une école de sagesse
 description: Constat sur la philosophie comme une école de sagesse.
 permalink: /constats/philosophie-ecole-de-sagesse/
+chemin_associe: Intérêts et limites de la philosophie
+sequence: 20
 toc: false
 toc_sticky: false
 type: constat
-chemin_associe: Intérêts et limites de la philosophie
+layout: constat
 fil_rouge_associe: Philosophie
 type_constat: porte_entree
-sequence: 20
 ---
 Le mot philosophie veut littéralement dire "amour de la sagesse". Cette formulation correspond assez bien au type de cheminement que nous proposons.
 

@@ -1,13 +1,13 @@
 ---
-layout: constat
 title: Les nombres expriment des rapports
 description: Notre perception des nombres est fondée sur les rapports qu'ils entretiennent entre eux
 permalink: /constats/les-nombres-expriment-des-rapports/
+chemin_associe: La porte des nombres
+sequence: 30
 toc: false
 toc_sticky: false
 type: constat
-chemin_associe: La porte des nombres
-sequence: 30
+layout: constat
 ---
 
 Pre-requis : [[La perception est fondée sur le changement]]

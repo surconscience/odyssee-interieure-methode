@@ -1,13 +1,13 @@
 ---
-layout: constat
 title: Les nombres sont associés à des formes géométriques
 description: Comment les nombres se manifestent dans la géométrie
 permalink: /constats/les-nombres-sont-associes-a-des-formes-geometriques/
+chemin_associe: La porte des nombres
+sequence: 40
 toc: false
 toc_sticky: false
 type: constat
-chemin_associe: La porte des nombres
-sequence: 40
+layout: constat
 ---
 Les disciples de Pythagore associent les nombres à des formes géométriques. Ainsi, par exemple, pour dessiner une surface, il faut au minimum trois points. Le triangle et le trois sont donc étroitement associés et il en va de même par exemple pour le carré qui est associé au quatre.
 
